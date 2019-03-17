@@ -3,6 +3,8 @@
 ## User Stories
 
 - [ ] Log in
+- [ ] Request Secret
+- [ ] Confirm secret(Login)
 - [ ] Like / Unlike a photo
 - [ ] Comment on a photo
 - [ ] Search by user
