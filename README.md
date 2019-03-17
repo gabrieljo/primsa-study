@@ -2,10 +2,10 @@
 
 ## User Stories
 
-- [ ] Log in
-- [ ] Request Secret
-- [ ] Confirm secret(Login)
-- [ ] Like / Unlike a photo
+- [x] Create account
+- [x] Request Secret
+- [x] Confirm secret(Login)
+- [x] Like / Unlike a photo
 - [ ] Comment on a photo
 - [ ] Search by user
 - [ ] Search by location
@@ -13,7 +13,6 @@
 - [ ] Follow / Unfollow User
 - [ ] See the full photo
 - [ ] Edit my profile
-- [x] Create account
 - [ ] Upload photos
 - [ ] Edit the photo (delete)
 - [ ] See the feed
